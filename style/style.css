@@ -1,0 +1,14 @@
+td, th {
+  vertical-align: middle !important;
+  text-align: center !important;
+}
+
+.city-data td svg {
+  height: 150px;
+  width: 300px;
+};
+
+table > tbody > tr > td:first-of-type > div {
+  height: 180px;
+  width: 200px;
+}
